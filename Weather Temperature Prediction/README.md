@@ -50,10 +50,10 @@
 * When the wind blows north-west or west, the temperature relatively gets lower. On the other hand, when it blows south or southeast, the temperatures tend to rise.
 
 * Here are some highlights:
-![](/images/weather_temp)
-![](/images/weather_tdist)
-![](/images/weather_heatmap)
-![](/images/weather_condition)
+![](/images/weather_temp.jpg)
+![](/images/weather_tdist.jpg)
+![](/images/weather_heatmap.jpg)
+![](/images/weather_condition.jpg)
 
 
 ## ***Section 3*** : Building a Prediction Model
