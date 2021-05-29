@@ -42,7 +42,6 @@
 * In 2012 and 2020, it was comparatively hot compare to other years.
     * There was an extreme month in 2020(July), it was the coldest month ever
 * In each season, it was colder from midnight to early morning and warmer during noon.
-
 * Temperature mostly gets affected by depending on the month, dew point, wind speed, wind gust, wind direction, and condition of the day.
 * Dew point was the major increase of temperature(As Dew Point increases, it will increase the temperature).
 * Wind Speed and Gust were the main features to drop the temperature(Temperature will drop when 'Wind Speed' and 'Wind Gust' increase).
