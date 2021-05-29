@@ -1,5 +1,5 @@
 # Weather Temperature Prediction Project Overview
-![] ()
+![](/images/weather.jpg)
 
 * Built a weather temperature prediction model using RandomForestRegressor and resulted with r2 score of 0.990 and RMSE of 0.609
 * Scraped more than 140 thousand rows of weather dataset from "https://www.wunderground.com" by utilizing Beautifulsoup and requests in Python.
@@ -28,12 +28,14 @@
 
 
 ## ***Section 1*** : Cleaning the Dataset
+
 * Merged the dataset from 2010 to 2020 scraped weather datasets
 * Removed the missing values
 * Removed misleading values, irrelevant values and outliers
 
 
 ## ***Section 2*** : Exploratory Data Analysis
+
 * No significant temperature change over the past 10 years.
 * In 2014 and 2015, it was relatively cold compare to other years.
     * There was an extreme month in 2015(February), it was the coldest month ever
@@ -52,6 +54,7 @@
 
 
 ## ***Section 3*** : Building a Prediction Model
+
 * Setting dummies to categorical variables using One hot encoding
 * Separated the dataset into train set and test set with sklearn.model_selection.train_test_split
 * Trained the RandomForestRegressor model with the train set
