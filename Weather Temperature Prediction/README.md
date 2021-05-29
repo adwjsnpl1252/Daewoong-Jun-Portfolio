@@ -54,6 +54,7 @@
 ![](/images/weather_tdist.png)
 ![](/images/weather_heatmap.png)
 ![](/images/weather_condition.png)
+![](/images/weather_season_dist.png)
 
 
 ## ***Section 3*** : Building a Prediction Model
