@@ -55,8 +55,11 @@
 ![](/images/weather_heatmap.png)
 ![](/images/weather_condition.png)
 ![](/images/weather_season_dist.png)
-
-
+![](/images/weather_tempcorr.png)
+![](/images/weather_sfeatures.png)
+![](/images/weather_sfeature.png)
+![](/images/weather_features1.png)
+![](/images/weather_features2.png)
 ## ***Section 3*** : Building a Prediction Model
 
 * Setting dummies to categorical variables using One hot encoding
