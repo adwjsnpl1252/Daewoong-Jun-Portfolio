@@ -52,10 +52,10 @@
 
 
 ## ***Section 3*** : Building a Prediction Model
-* Setting dummies to categorical variables using one hot encoding
+* Setting dummies to categorical variables using One hot encoding
 * Separated the dataset into train set and test set with sklearn.model_selection.train_test_split
 * Trained the RandomForestRegressor model with the train set
-* With the model, predicted the temperature for January 2021 and resulted r2 score of 0.81 and Root Mean Squared Error of 2.294
+* With the model, predicted the temperature for January 2021 and gave r2 score of 0.81 and a Root Mean Squared Error of 2.294
 * Improved the model by parameter tuning with GridsearchCV and after the tuning, further improved the model to have r2 score of 0.990 and Root Mean Squared Error of 0.609.
 
 
