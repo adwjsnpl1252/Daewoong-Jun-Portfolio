@@ -56,6 +56,7 @@
 ![](/images/weather_condition.png)
 ![](/images/weather_season_dist.png)
 ![](/images/weather_tempcorr.png)
+![](/images/weather_corr2.png)
 ![](/images/weather_sfeatures.png)
 ![](/images/weather_sfeature.png)
 ![](/images/weather_features1.png)
