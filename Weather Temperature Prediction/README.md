@@ -1,5 +1,5 @@
 # Weather Temperature Prediction Project Overview
-![](/images/weather.jpg)
+                    ![](/images/weather.jpg)
 
 * Built a weather temperature prediction model using RandomForestRegressor and resulted with r2 score of 0.990 and RMSE of 0.609
 * Scraped more than 140 thousand rows of weather dataset from "https://www.wunderground.com" by utilizing Beautifulsoup and requests in Python.
