@@ -26,8 +26,10 @@ severities
 
 
 # [Hotel Recommender Systems](https://github.com/daewoong1252/Projects/tree/master/Hotel%20Recommender%20System)
-* Designed both Collaborative and Content-based recommender systems and successfully listed 10 recommended hotels
-* Hold a Sentimental Analysis based on the reviews using NLP and classified the hotels into 2 categories with Multinomial Naïve Bayes, Logistic Regressions, and Support Vector Machine
+* Designed aContent-based recommender systems and successfully listed 10 recommended hotels
+* Text preprocessing using Lemmatizer,removed the punctuations, stopwords and symbols such as @.
+* Convert the text into vectors by TfidfVectorizer.
+* By using linear kernel, calculated the similarities between the hotels and listed 10 hotels.
 * Visualized the reviews and hotel data with word clouds, distribution plots, and map illustrator utilizing Python and Plotly framework
 
 ![](/images/hotel_us.jpg)
