@@ -18,8 +18,8 @@ severities
 ![](/images/Vancouver_Crime.jpg)
 
 
-# [Weather Temperature Predictions in Toronto](https://github.com/adwjsnpl1252/DaewoongJun_Portfolio/tree/master/Weather%20Temperature%20Prediction)
-* Built a weather temperature prediction model using RandomForestRegressor and resulted with r2 score of 0.990 and RMSE of 0.609.
+# [Time Series Weather Forecast in Toronto](https://github.com/adwjsnpl1252/DaewoongJun_Portfolio/tree/master/Weather%20Temperature%20Prediction)
+* Built a Time Series Weather Forecast Model using SARIMAX to forecast the temperature of each month of 2021 in Toronto and resulted with MAPE of 4.25%.
 * Scraped more than 140 thousand rows of weather dataset from "https://www.wunderground.com" by utilizing Beautifulsoup and requests in Python.
 * Successfully cleaned the dataset by handling the missing data, modifying the data type and columns of the dataset, and removing the misleading values, irrelevant data, and outliers.
 * Conducted an exploratory data analysis to investigate the temperature change over the past ten years in Toronto and detect which features had affected the temperature with Plotly and Matplotlib.
