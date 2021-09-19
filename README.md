@@ -24,7 +24,7 @@ severities
 * Successfully cleaned the dataset by handling the missing data, modifying the data type and columns of the dataset, and removing the misleading values, irrelevant data, and outliers.
 * Conducted an exploratory data analysis to investigate the temperature change over the past ten years in Toronto and detect which features had affected the temperature with Plotly and Matplotlib.
 
-![](/images/SARIMAX_Forecast.jpg)
+![](/images/SARIMAX_Forecast.png)
 
 
 # [Hotel Recommender Systems](https://github.com/daewoong1252/Projects/tree/master/Hotel%20Recommender%20System)
