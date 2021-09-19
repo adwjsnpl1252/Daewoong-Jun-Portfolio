@@ -1,12 +1,12 @@
 # Projects
 
-# [Price Prediction of Avocado With Time Forecasting](https://github.com/daewoong1252/Projects/tree/master/Avocado%20Price%20Predictions(2015~2018))
-* Built a price prediction model to predict the avocado’s price in the US for the next 30 days utilizing Time Series Forecasting with LSTM in Python.
-* Optimized the LSTM models by running several cases with different number of units and able to select the optimal units of 32 which resulted the lowest RMSE (0.122)
-* Analyzed the dataset using tools from Matplotlib, Seaborn, and Pandas and successfully detected the features which affected the price of avocados
+# [Time Series Weather Forecast in Toronto](https://github.com/adwjsnpl1252/DaewoongJun_Portfolio/tree/master/Weather%20Temperature%20Prediction)
+* Built a Time Series Weather Forecast Model using SARIMAX to forecast the temperature of each month of 2021 in Toronto and resulted with MAPE of 4.25%.
+* Scraped more than 140 thousand rows of weather dataset from "https://www.wunderground.com" by utilizing Beautifulsoup and requests in Python.
+* Successfully cleaned the dataset by handling the missing data, modifying the data type and columns of the dataset, and removing the misleading values, irrelevant data, and outliers.
+* Conducted an exploratory data analysis to investigate the temperature change over the past ten years in Toronto and detect which features had affected the temperature with Plotly and Matplotlib.
 
-![](/images/avocado_avg_price.jpg)
-
+![](/images/SARIMAX_Forecast.png)
 
 # [Vancouver Crime Analysis And Clustering](https://github.com/daewoong1252/Projects/tree/master/Vancouver%20Crime)
 * Identified the efficient solutions to reduce crime rates by conducting Explanatory data analysis employing Python and its data visualization tools Matplotlib and Seaborn libraries
@@ -18,13 +18,12 @@ severities
 ![](/images/Vancouver_Crime.jpg)
 
 
-# [Time Series Weather Forecast in Toronto](https://github.com/adwjsnpl1252/DaewoongJun_Portfolio/tree/master/Weather%20Temperature%20Prediction)
-* Built a Time Series Weather Forecast Model using SARIMAX to forecast the temperature of each month of 2021 in Toronto and resulted with MAPE of 4.25%.
-* Scraped more than 140 thousand rows of weather dataset from "https://www.wunderground.com" by utilizing Beautifulsoup and requests in Python.
-* Successfully cleaned the dataset by handling the missing data, modifying the data type and columns of the dataset, and removing the misleading values, irrelevant data, and outliers.
-* Conducted an exploratory data analysis to investigate the temperature change over the past ten years in Toronto and detect which features had affected the temperature with Plotly and Matplotlib.
+# [Price Prediction of Avocado With Time Forecasting](https://github.com/daewoong1252/Projects/tree/master/Avocado%20Price%20Predictions(2015~2018))
+* Built a price prediction model to predict the avocado’s price in the US for the next 30 days utilizing Time Series Forecasting with LSTM in Python.
+* Optimized the LSTM models by running several cases with different number of units and able to select the optimal units of 32 which resulted the lowest RMSE (0.122)
+* Analyzed the dataset using tools from Matplotlib, Seaborn, and Pandas and successfully detected the features which affected the price of avocados
 
-![](/images/SARIMAX_Forecast.png)
+![](/images/avocado_avg_price.jpg)
 
 
 # [Hotel Recommender Systems](https://github.com/daewoong1252/Projects/tree/master/Hotel%20Recommender%20System)
